@@ -1,2 +1,3 @@
 # ebdesk-test
 Ini adalah file sample.txt untuk latihan Git.
+Ini adalah file sample.txt untuk staging area
