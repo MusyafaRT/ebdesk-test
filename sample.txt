@@ -1,1 +1,2 @@
 # ebdesk-test
+Ini adalah file sample.txt untuk latihan Git.
